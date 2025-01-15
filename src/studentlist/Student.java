@@ -20,12 +20,5 @@ public class Student {
     public void setName(String name) {
         this.name = name;
     }
-    public String getStudentId() {
-        return studentID;
-    }
-
-    public void stestudentID( String studentID) {
-        this.studentID = studentID;
-    }
    
 }
