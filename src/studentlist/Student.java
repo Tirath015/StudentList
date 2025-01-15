@@ -9,6 +9,14 @@ package studentlist;
  * @author fagun at 12/05/2024
  */
 public class Student {
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
     private String name;
     private String studentID;
     private String address;
@@ -20,5 +28,7 @@ public class Student {
     public void setName(String name) {
         this.name = name;
     }
+    
+    
    
 }
