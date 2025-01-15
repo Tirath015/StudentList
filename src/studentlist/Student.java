@@ -16,6 +16,14 @@ public class Student {
         return address;
     }
 
+    public String getStudentID() {
+        return studentID;
+    }
+
+    public void setStudentID(String studentID) {
+        this.studentID = studentID;
+    }
+
     public void setAddress(String address) {
         this.address = address;
     }
