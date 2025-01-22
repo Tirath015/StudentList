@@ -8,6 +8,7 @@ package studentlist;
  *
  * @author fagun at 12/05/2024
  *@author tirath at 1/22/2025
+ *@email  paddati@sheridancollege.ca
  */
 public class Student {
 
